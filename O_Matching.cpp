@@ -1,5 +1,7 @@
-// jha
-// 2025-07-12
+/**
+  author: ashwini_jha
+  date : 2025-07-12
+**/
 #include<bits/stdc++.h>
 #define int long long
 #define pb emplace_back
